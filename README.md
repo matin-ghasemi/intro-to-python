@@ -19,3 +19,7 @@ By completing this course, students will be able to:
 - Read from and write to files
 - Apply basic debugging and error-handling techniques
 - Develop problem-solving skills through practical exercises
+
+### Prerequisites
+- No prior programming experience is required
+- Basic familiarity with computers and logical thinking is recommended
